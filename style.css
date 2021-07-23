@@ -1,0 +1,46 @@
+*{
+    text-decoration: none;
+}
+
+.capa img {
+    width: 80%;
+    height: 80vh;
+}
+
+.navegacao {
+   font-size: 30px;
+   display: flex;
+   justify-content: space-evenly;
+   color: purple;
+}
+
+
+.menu-item {
+    display: inline;
+    font-size: 40px;
+}
+
+.menu-item :hover{
+    color: rebeccapurple;
+}
+
+body {
+    background-image: url('imagens/fundo.png');
+}
+
+.rodape {
+    display: flex;
+    justify-content: center;
+}
+
+.titulos {
+    font-size: 40px;
+    color: purple;
+  
+}
+
+.imagem-campanha {
+    margin-left: 10rem;
+    
+   
+}
